@@ -6,3 +6,4 @@ class App < Sinatra::Base
  
   erb :'names/index.html.erb'
 end
+end
